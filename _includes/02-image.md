@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Knekro elegante](https://static.wikia.nocookie.net/youtubepedia/images/b/b8/Knekro_apariencia.PNG/revision/latest?cb=20211117191847&path-prefix=es)
